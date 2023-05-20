@@ -3,7 +3,7 @@ name: Sugestia zmian
 about: Propozycja dotycząca zmian w dokumentacji
 title: "[SUGESTIA ZMIAN]"
 ---
-<!-- Tekst zapisany po <‎!-- --‎> nie będzie widoczny w issue** -->
+<!-- Tekst zapisany pomiędzy <‎!-- i --‎> nie będzie widoczny w issue** -->
 
 **Czy twoja propozycja zmian jest związana z problemem? Proszę opisz problem którego dotyczy.**
 <!-- Jasny i precyzyjny opis problemu którego dotyczny propozycja zmian. Na przykład 'W Rozdziale 1, Artykule 11, Punkcie 1, Podpunkcie 1 sformułowanie "w tym z realizacji praw wynikających z tych instrumentów" jest nie wystarczająco precyzyjne i może wprowadzać urzędnika w błąd.'  -->
